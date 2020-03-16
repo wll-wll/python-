@@ -5,7 +5,9 @@ def decode_base64():  # 解密base64
     if missing_padding:
         data += '=' * missing_padding
     print('解密结果如下：')
-    print(base64.b64decode(data))
+    datatemp=base64.b64decode(data)
+    str_base64 = str(datatemp, 'utf-8')
+    print(str_base64)
 def encode_base64(): # 加密base64
     data = input('请输入要加密的字符：')   # data= "{'name':'kkk','age':22}"
     print('加密结果如下：')
