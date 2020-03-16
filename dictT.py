@@ -12,8 +12,9 @@ def converts() :
             juedge = False
     print('原字典输出如下：')
     print(dectTs)
-    dectTs_json = json.dumps(dectTs,indent=4)
-    print('json字符串输出如下：\n'+ dectTs_json)
+    dectTs_json = json.dumps(dectTs,indent=4,ensure_ascii=False) #加入ASCII参数
+    print('json字符串输出如下：')
+    print(dectTs_json)
     print(type(dectTs_json))
     news={v: k for k, v in dectTs.items()}
     print(news)
