@@ -1,0 +1,69 @@
+ <!DOCTYPE html>
+ <html>
+<body background="img/5-10.jpg">
+ <meta charset="utf-8">
+ <body bgcolor="white">
+ <h1 align="center" >
+ <font color="springgreen" face="华文楷体" size="10">-绿色学习空间-</font>
+ </h1>
+<p>
+	 <font color="darkblue" face="宋体" size="10">点我收获快乐！</font>
+	<a href="http://i.mooc.mooc.whu.edu.cn/space/index">
+	<img border="0" src="img/green_ogre_04.png"/>
+	</a>
+ </p>
+ <p>
+ 	<font color="darkblue" face="宋体" size="10">拜托别点我！</font>
+ 	<a href="https://www.icourse163.org/">
+ 	<img border="0" src="img/green_ogre_05.png"/>
+ 	</a>
+  </p>
+  <p>
+  	<font color="darkblue" face="宋体" size="10">什么我都知道！</font>
+  	<a href="http://iras.lib.whu.edu.cn:8080/login.action?url=http%3A%2F%2Firas.lib.whu.edu.cn%3A8080%2Frwt%2F401%2Fhttps%2FP75YPLUDN3WXTLUPMW4A%2F&disableAiRwt=1">
+  	<img border="0" src="img/green_ogre_07.png"/>
+  	</a>
+   </p>
+   <p>
+   	<font color="darkblue" face="宋体" size="10">来了就别走！</font>
+   	<a href="https://www.bilibili.com/">
+   	<img border="0" src="img/green_ogre_08.png"/>
+   	</a>
+    </p>
+<p>
+  	<font color="darkblue" face="宋体" size="10">世界一流！</font>
+  	<a href="https://baike.baidu.com/item/%E7%AA%A6%E8%B4%A4%E5%BA%B7/7751221?fr=aladdin">
+  	<img border="0" src="img/green_ogre_06.png"/>
+  	</a>
+</p>
+ <div id="section">
+ <h1>武汉大学</h1>
+ <p>
+疫情之下，“樱”为你而更美。武汉疫情危难之际，数万医护人员白衣当战袍，悬壶入荆楚；无数平凡英雄挺身而出，同舟共济。
+武汉是一座英雄的城市，武汉大学与武汉是一个命运共同体，武大人没有袖手旁观，站在救治一线，挺在防疫前线。
+ </p>
+ </div>
+ <div id="footer">
+ Copyright wl.com.cn
+ </div>
+ <style>
+ #header {
+     color:white;
+     text-align:center;
+     padding:5px;
+ }
+ #section {
+     width:350px;
+     float:left;
+     padding:10px; 
+ }
+ #footer {
+     background-color:black;
+     color:white;
+     clear:both;
+     text-align:center;
+     padding:5px; 
+ }
+ </style>
+  </body>
+ </html>
